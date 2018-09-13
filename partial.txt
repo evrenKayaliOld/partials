@@ -2,4 +2,5 @@ head
 
 body
 
+Footer
 end
