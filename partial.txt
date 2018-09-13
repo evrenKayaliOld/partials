@@ -1,6 +1,10 @@
 head
 
+Actual fix
+
 body
+
+This line will reverted
 
 Footer
 end
