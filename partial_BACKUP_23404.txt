@@ -1,0 +1,13 @@
+head
+
+Actual fix
+
+body
+
+<<<<<<< HEAD
+Edit remote last remote changes
+
+=======
+Edit remote 2
+new stuff added as well
+>>>>>>> feature:  last feature changes
