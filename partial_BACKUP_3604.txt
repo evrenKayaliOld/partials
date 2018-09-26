@@ -1,0 +1,14 @@
+Change add master
+
+head
+
+Actual fix
+
+body
+
+Edit remote last remote changes
+<<<<<<< HEAD
+new stuff added as well
+=======
+new stuff added as well
+>>>>>>> a511f59... legacy code
